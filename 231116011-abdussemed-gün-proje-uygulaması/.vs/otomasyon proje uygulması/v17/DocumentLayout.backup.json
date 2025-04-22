@@ -1,0 +1,487 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA56F20B-270D-4DED-A678-ACF6889695B0}|otomasyon proje uygulmas\u0131\\otomasyon proje uygulmas\u0131.csproj|c:\\users\\abdus\\onedrive\\masa\u00FCst\u00FC\\yeni klas\u00F6r\\projeler sah\u0130ner g\u00FCler\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\modul_kullanici\\frmkullaniciy\u00F6netimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA56F20B-270D-4DED-A678-ACF6889695B0}|otomasyon proje uygulmas\u0131\\otomasyon proje uygulmas\u0131.csproj|solutionrelative:otomasyon proje uygulmas\u0131\\modul_kullanici\\frmkullaniciy\u00F6netimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA56F20B-270D-4DED-A678-ACF6889695B0}|otomasyon proje uygulmas\u0131\\otomasyon proje uygulmas\u0131.csproj|C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\modul_kullanici\\frmkullaniciy\u00F6netimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EA56F20B-270D-4DED-A678-ACF6889695B0}|otomasyon proje uygulmas\u0131\\otomasyon proje uygulmas\u0131.csproj|solutionrelative:otomasyon proje uygulmas\u0131\\modul_kullanici\\frmkullaniciy\u00F6netimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA56F20B-270D-4DED-A678-ACF6889695B0}|otomasyon proje uygulmas\u0131\\otomasyon proje uygulmas\u0131.csproj|C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\modul_kullanici\\frmkullanicipanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EA56F20B-270D-4DED-A678-ACF6889695B0}|otomasyon proje uygulmas\u0131\\otomasyon proje uygulmas\u0131.csproj|solutionrelative:otomasyon proje uygulmas\u0131\\modul_kullanici\\frmkullanicipanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA56F20B-270D-4DED-A678-ACF6889695B0}|otomasyon proje uygulmas\u0131\\otomasyon proje uygulmas\u0131.csproj|c:\\users\\abdus\\onedrive\\masa\u00FCst\u00FC\\yeni klas\u00F6r\\projeler sah\u0130ner g\u00FCler\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EA56F20B-270D-4DED-A678-ACF6889695B0}|otomasyon proje uygulmas\u0131\\otomasyon proje uygulmas\u0131.csproj|solutionrelative:otomasyon proje uygulmas\u0131\\anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA56F20B-270D-4DED-A678-ACF6889695B0}|otomasyon proje uygulmas\u0131\\otomasyon proje uygulmas\u0131.csproj|C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA56F20B-270D-4DED-A678-ACF6889695B0}|otomasyon proje uygulmas\u0131\\otomasyon proje uygulmas\u0131.csproj|solutionrelative:otomasyon proje uygulmas\u0131\\anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA56F20B-270D-4DED-A678-ACF6889695B0}|otomasyon proje uygulmas\u0131\\otomasyon proje uygulmas\u0131.csproj|C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\modul_kullanici\\frmkullanicipanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA56F20B-270D-4DED-A678-ACF6889695B0}|otomasyon proje uygulmas\u0131\\otomasyon proje uygulmas\u0131.csproj|solutionrelative:otomasyon proje uygulmas\u0131\\modul_kullanici\\frmkullanicipanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA56F20B-270D-4DED-A678-ACF6889695B0}|otomasyon proje uygulmas\u0131\\otomasyon proje uygulmas\u0131.csproj|C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\fonksiyonlar\\database.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|",
+      "RelativeMoniker": "D:0:0:{EA56F20B-270D-4DED-A678-ACF6889695B0}|otomasyon proje uygulmas\u0131\\otomasyon proje uygulmas\u0131.csproj|solutionrelative:otomasyon proje uygulmas\u0131\\fonksiyonlar\\database.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA56F20B-270D-4DED-A678-ACF6889695B0}|otomasyon proje uygulmas\u0131\\otomasyon proje uygulmas\u0131.csproj|C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\modul_banka\\frmbankaaciliskarti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EA56F20B-270D-4DED-A678-ACF6889695B0}|otomasyon proje uygulmas\u0131\\otomasyon proje uygulmas\u0131.csproj|solutionrelative:otomasyon proje uygulmas\u0131\\modul_banka\\frmbankaaciliskarti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA56F20B-270D-4DED-A678-ACF6889695B0}|otomasyon proje uygulmas\u0131\\otomasyon proje uygulmas\u0131.csproj|C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EA56F20B-270D-4DED-A678-ACF6889695B0}|otomasyon proje uygulmas\u0131\\otomasyon proje uygulmas\u0131.csproj|solutionrelative:otomasyon proje uygulmas\u0131\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA56F20B-270D-4DED-A678-ACF6889695B0}|otomasyon proje uygulmas\u0131\\otomasyon proje uygulmas\u0131.csproj|C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA56F20B-270D-4DED-A678-ACF6889695B0}|otomasyon proje uygulmas\u0131\\otomasyon proje uygulmas\u0131.csproj|solutionrelative:otomasyon proje uygulmas\u0131\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA56F20B-270D-4DED-A678-ACF6889695B0}|otomasyon proje uygulmas\u0131\\otomasyon proje uygulmas\u0131.csproj|C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\fonksiyonlar\\resimleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA56F20B-270D-4DED-A678-ACF6889695B0}|otomasyon proje uygulmas\u0131\\otomasyon proje uygulmas\u0131.csproj|solutionrelative:otomasyon proje uygulmas\u0131\\fonksiyonlar\\resimleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA56F20B-270D-4DED-A678-ACF6889695B0}|otomasyon proje uygulmas\u0131\\otomasyon proje uygulmas\u0131.csproj|C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\fonksiyonlar\\numara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA56F20B-270D-4DED-A678-ACF6889695B0}|otomasyon proje uygulmas\u0131\\otomasyon proje uygulmas\u0131.csproj|solutionrelative:otomasyon proje uygulmas\u0131\\fonksiyonlar\\numara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA56F20B-270D-4DED-A678-ACF6889695B0}|otomasyon proje uygulmas\u0131\\otomasyon proje uygulmas\u0131.csproj|C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\fonksiyonlar\\mesajlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA56F20B-270D-4DED-A678-ACF6889695B0}|otomasyon proje uygulmas\u0131\\otomasyon proje uygulmas\u0131.csproj|solutionrelative:otomasyon proje uygulmas\u0131\\fonksiyonlar\\mesajlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA56F20B-270D-4DED-A678-ACF6889695B0}|otomasyon proje uygulmas\u0131\\otomasyon proje uygulmas\u0131.csproj|C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\fonksiyonlar\\formlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA56F20B-270D-4DED-A678-ACF6889695B0}|otomasyon proje uygulmas\u0131\\otomasyon proje uygulmas\u0131.csproj|solutionrelative:otomasyon proje uygulmas\u0131\\fonksiyonlar\\formlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA56F20B-270D-4DED-A678-ACF6889695B0}|otomasyon proje uygulmas\u0131\\otomasyon proje uygulmas\u0131.csproj|C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\otomasyondataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{EA56F20B-270D-4DED-A678-ACF6889695B0}|otomasyon proje uygulmas\u0131\\otomasyon proje uygulmas\u0131.csproj|solutionrelative:otomasyon proje uygulmas\u0131\\otomasyondataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA56F20B-270D-4DED-A678-ACF6889695B0}|otomasyon proje uygulmas\u0131\\otomasyon proje uygulmas\u0131.csproj|C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\modul_kasa\\frmkasaaciliskarti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EA56F20B-270D-4DED-A678-ACF6889695B0}|otomasyon proje uygulmas\u0131\\otomasyon proje uygulmas\u0131.csproj|solutionrelative:otomasyon proje uygulmas\u0131\\modul_kasa\\frmkasaaciliskarti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA56F20B-270D-4DED-A678-ACF6889695B0}|otomasyon proje uygulmas\u0131\\otomasyon proje uygulmas\u0131.csproj|C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\modul_cek\\frmmustericeki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA56F20B-270D-4DED-A678-ACF6889695B0}|otomasyon proje uygulmas\u0131\\otomasyon proje uygulmas\u0131.csproj|solutionrelative:otomasyon proje uygulmas\u0131\\modul_cek\\frmmustericeki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA56F20B-270D-4DED-A678-ACF6889695B0}|otomasyon proje uygulmas\u0131\\otomasyon proje uygulmas\u0131.csproj|C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\modul_cek\\frmkendicekimiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EA56F20B-270D-4DED-A678-ACF6889695B0}|otomasyon proje uygulmas\u0131\\otomasyon proje uygulmas\u0131.csproj|solutionrelative:otomasyon proje uygulmas\u0131\\modul_cek\\frmkendicekimiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA56F20B-270D-4DED-A678-ACF6889695B0}|otomasyon proje uygulmas\u0131\\otomasyon proje uygulmas\u0131.csproj|C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\modul_cek\\frmmustericeki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EA56F20B-270D-4DED-A678-ACF6889695B0}|otomasyon proje uygulmas\u0131\\otomasyon proje uygulmas\u0131.csproj|solutionrelative:otomasyon proje uygulmas\u0131\\modul_cek\\frmmustericeki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA56F20B-270D-4DED-A678-ACF6889695B0}|otomasyon proje uygulmas\u0131\\otomasyon proje uygulmas\u0131.csproj|C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\modul_cek\\frmkendicekimiz.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA56F20B-270D-4DED-A678-ACF6889695B0}|otomasyon proje uygulmas\u0131\\otomasyon proje uygulmas\u0131.csproj|solutionrelative:otomasyon proje uygulmas\u0131\\modul_cek\\frmkendicekimiz.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA56F20B-270D-4DED-A678-ACF6889695B0}|otomasyon proje uygulmas\u0131\\otomasyon proje uygulmas\u0131.csproj|C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\modul_cek\\frmbankayacekcikisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EA56F20B-270D-4DED-A678-ACF6889695B0}|otomasyon proje uygulmas\u0131\\otomasyon proje uygulmas\u0131.csproj|solutionrelative:otomasyon proje uygulmas\u0131\\modul_cek\\frmbankayacekcikisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA56F20B-270D-4DED-A678-ACF6889695B0}|otomasyon proje uygulmas\u0131\\otomasyon proje uygulmas\u0131.csproj|C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\modul_cek\\fmrcariyecekcikisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EA56F20B-270D-4DED-A678-ACF6889695B0}|otomasyon proje uygulmas\u0131\\otomasyon proje uygulmas\u0131.csproj|solutionrelative:otomasyon proje uygulmas\u0131\\modul_cek\\fmrcariyecekcikisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA56F20B-270D-4DED-A678-ACF6889695B0}|otomasyon proje uygulmas\u0131\\otomasyon proje uygulmas\u0131.csproj|C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\modul_cek\\frmkendicekimiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA56F20B-270D-4DED-A678-ACF6889695B0}|otomasyon proje uygulmas\u0131\\otomasyon proje uygulmas\u0131.csproj|solutionrelative:otomasyon proje uygulmas\u0131\\modul_cek\\frmkendicekimiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA56F20B-270D-4DED-A678-ACF6889695B0}|otomasyon proje uygulmas\u0131\\otomasyon proje uygulmas\u0131.csproj|C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\modul_cari\\frmaciliskarti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EA56F20B-270D-4DED-A678-ACF6889695B0}|otomasyon proje uygulmas\u0131\\otomasyon proje uygulmas\u0131.csproj|solutionrelative:otomasyon proje uygulmas\u0131\\modul_cari\\frmaciliskarti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA56F20B-270D-4DED-A678-ACF6889695B0}|otomasyon proje uygulmas\u0131\\otomasyon proje uygulmas\u0131.csproj|C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\modul_banka\\frmparatranser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EA56F20B-270D-4DED-A678-ACF6889695B0}|otomasyon proje uygulmas\u0131\\otomasyon proje uygulmas\u0131.csproj|solutionrelative:otomasyon proje uygulmas\u0131\\modul_banka\\frmparatranser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA56F20B-270D-4DED-A678-ACF6889695B0}|otomasyon proje uygulmas\u0131\\otomasyon proje uygulmas\u0131.csproj|C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\modul_banka\\frmbankalistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EA56F20B-270D-4DED-A678-ACF6889695B0}|otomasyon proje uygulmas\u0131\\otomasyon proje uygulmas\u0131.csproj|solutionrelative:otomasyon proje uygulmas\u0131\\modul_banka\\frmbankalistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA56F20B-270D-4DED-A678-ACF6889695B0}|otomasyon proje uygulmas\u0131\\otomasyon proje uygulmas\u0131.csproj|C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\modul_banka\\frmbanka\u0130slem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EA56F20B-270D-4DED-A678-ACF6889695B0}|otomasyon proje uygulmas\u0131\\otomasyon proje uygulmas\u0131.csproj|solutionrelative:otomasyon proje uygulmas\u0131\\modul_banka\\frmbanka\u0130slem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA56F20B-270D-4DED-A678-ACF6889695B0}|otomasyon proje uygulmas\u0131\\otomasyon proje uygulmas\u0131.csproj|C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\modul_banka\\frmbankahareketleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EA56F20B-270D-4DED-A678-ACF6889695B0}|otomasyon proje uygulmas\u0131\\otomasyon proje uygulmas\u0131.csproj|solutionrelative:otomasyon proje uygulmas\u0131\\modul_banka\\frmbankahareketleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmKullaniciY\u00F6netimi.cs",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\modul_kullanici\\frmKullaniciY\u00F6netimi.cs",
+              "RelativeDocumentMoniker": "otomasyon proje uygulmas\u0131\\modul_kullanici\\frmKullaniciY\u00F6netimi.cs",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\modul_kullanici\\frmKullaniciY\u00F6netimi.cs",
+              "RelativeToolTip": "otomasyon proje uygulmas\u0131\\modul_kullanici\\frmKullaniciY\u00F6netimi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T11:25:23.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmKullaniciPanel.cs",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\modul_kullanici\\frmKullaniciPanel.cs",
+              "RelativeDocumentMoniker": "otomasyon proje uygulmas\u0131\\modul_kullanici\\frmKullaniciPanel.cs",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\modul_kullanici\\frmKullaniciPanel.cs",
+              "RelativeToolTip": "otomasyon proje uygulmas\u0131\\modul_kullanici\\frmKullaniciPanel.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAmwHUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T19:12:04.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmKullaniciY\u00F6netimi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\modul_kullanici\\frmKullaniciY\u00F6netimi.cs",
+              "RelativeDocumentMoniker": "otomasyon proje uygulmas\u0131\\modul_kullanici\\frmKullaniciY\u00F6netimi.cs",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\modul_kullanici\\frmKullaniciY\u00F6netimi.cs [Design]",
+              "RelativeToolTip": "otomasyon proje uygulmas\u0131\\modul_kullanici\\frmKullaniciY\u00F6netimi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T18:44:34.257Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmKullaniciPanel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\modul_kullanici\\frmKullaniciPanel.cs",
+              "RelativeDocumentMoniker": "otomasyon proje uygulmas\u0131\\modul_kullanici\\frmKullaniciPanel.cs",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\modul_kullanici\\frmKullaniciPanel.cs [Design]",
+              "RelativeToolTip": "otomasyon proje uygulmas\u0131\\modul_kullanici\\frmKullaniciPanel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T18:44:18.64Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\App.config",
+              "RelativeDocumentMoniker": "otomasyon proje uygulmas\u0131\\App.config",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\App.config",
+              "RelativeToolTip": "otomasyon proje uygulmas\u0131\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-04T08:41:22.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Resimleme.cs",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\fonksiyonlar\\Resimleme.cs",
+              "RelativeDocumentMoniker": "otomasyon proje uygulmas\u0131\\fonksiyonlar\\Resimleme.cs",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\fonksiyonlar\\Resimleme.cs",
+              "RelativeToolTip": "otomasyon proje uygulmas\u0131\\fonksiyonlar\\Resimleme.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T07:46:35.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Numara.cs",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\fonksiyonlar\\Numara.cs",
+              "RelativeDocumentMoniker": "otomasyon proje uygulmas\u0131\\fonksiyonlar\\Numara.cs",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\fonksiyonlar\\Numara.cs",
+              "RelativeToolTip": "otomasyon proje uygulmas\u0131\\fonksiyonlar\\Numara.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T07:46:33.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Mesajlar.cs",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\fonksiyonlar\\Mesajlar.cs",
+              "RelativeDocumentMoniker": "otomasyon proje uygulmas\u0131\\fonksiyonlar\\Mesajlar.cs",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\fonksiyonlar\\Mesajlar.cs",
+              "RelativeToolTip": "otomasyon proje uygulmas\u0131\\fonksiyonlar\\Mesajlar.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T07:46:29.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "otomasyonDataSet.xsd",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\otomasyonDataSet.xsd",
+              "RelativeDocumentMoniker": "otomasyon proje uygulmas\u0131\\otomasyonDataSet.xsd",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\otomasyonDataSet.xsd",
+              "RelativeToolTip": "otomasyon proje uygulmas\u0131\\otomasyonDataSet.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2025-03-04T07:46:17.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\Program.cs",
+              "RelativeDocumentMoniker": "otomasyon proje uygulmas\u0131\\Program.cs",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\Program.cs",
+              "RelativeToolTip": "otomasyon proje uygulmas\u0131\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T06:09:52.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DATABASE.dbml",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\fonksiyonlar\\DATABASE.dbml",
+              "RelativeDocumentMoniker": "otomasyon proje uygulmas\u0131\\fonksiyonlar\\DATABASE.dbml",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\fonksiyonlar\\DATABASE.dbml",
+              "RelativeToolTip": "otomasyon proje uygulmas\u0131\\fonksiyonlar\\DATABASE.dbml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001722|",
+              "WhenOpened": "2025-03-04T06:09:46.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmMusteriCeki.cs",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\Modul_Cek\\frmMusteriCeki.cs",
+              "RelativeDocumentMoniker": "otomasyon proje uygulmas\u0131\\Modul_Cek\\frmMusteriCeki.cs",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\Modul_Cek\\frmMusteriCeki.cs",
+              "RelativeToolTip": "otomasyon proje uygulmas\u0131\\Modul_Cek\\frmMusteriCeki.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA1wDcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T07:11:46.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrmKasaAcilisKarti.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\Modul_Kasa\\FrmKasaAcilisKarti.cs",
+              "RelativeDocumentMoniker": "otomasyon proje uygulmas\u0131\\Modul_Kasa\\FrmKasaAcilisKarti.cs",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\Modul_Kasa\\FrmKasaAcilisKarti.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\Modul_Kasa\\FrmKasaAcilisKarti.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T09:37:32.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FrmAcilisKarti.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\Modul_Cari\\FrmAcilisKarti.cs",
+              "RelativeDocumentMoniker": "otomasyon proje uygulmas\u0131\\Modul_Cari\\FrmAcilisKarti.cs",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\Modul_Cari\\FrmAcilisKarti.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\Modul_Cari\\FrmAcilisKarti.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T09:37:28.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmBankaAcilisKarti.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\Modul_Banka\\FrmBankaAcilisKarti.cs",
+              "RelativeDocumentMoniker": "otomasyon proje uygulmas\u0131\\Modul_Banka\\FrmBankaAcilisKarti.cs",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\Modul_Banka\\FrmBankaAcilisKarti.cs [Design]",
+              "RelativeToolTip": "otomasyon proje uygulmas\u0131\\Modul_Banka\\FrmBankaAcilisKarti.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T09:38:03.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "anaform.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\ANAFORM.cs",
+              "RelativeDocumentMoniker": "otomasyon proje uygulmas\u0131\\ANAFORM.cs",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\ANAFORM.cs [Design]",
+              "RelativeToolTip": "otomasyon proje uygulmas\u0131\\ANAFORM.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T08:37:50.123Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FORMLAR.cs",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\fonksiyonlar\\FORMLAR.cs",
+              "RelativeDocumentMoniker": "otomasyon proje uygulmas\u0131\\fonksiyonlar\\FORMLAR.cs",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\fonksiyonlar\\FORMLAR.cs",
+              "RelativeToolTip": "otomasyon proje uygulmas\u0131\\fonksiyonlar\\FORMLAR.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T08:18:15.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmKendiCekimiz.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\Modul_Cek\\frmKendiCekimiz.Designer.cs",
+              "RelativeDocumentMoniker": "otomasyon proje uygulmas\u0131\\Modul_Cek\\frmKendiCekimiz.Designer.cs",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\Modul_Cek\\frmKendiCekimiz.Designer.cs",
+              "RelativeToolTip": "otomasyon proje uygulmas\u0131\\Modul_Cek\\frmKendiCekimiz.Designer.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAMwIAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T08:23:50.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "anaform.cs",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\ANAFORM.cs",
+              "RelativeDocumentMoniker": "otomasyon proje uygulmas\u0131\\ANAFORM.cs",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\ANAFORM.cs",
+              "RelativeToolTip": "otomasyon proje uygulmas\u0131\\ANAFORM.cs",
+              "ViewState": "AgIAAK8AAAAAAAAAAAApwL8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T09:14:18.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmMusteriCeki.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\Modul_Cek\\frmMusteriCeki.cs",
+              "RelativeDocumentMoniker": "otomasyon proje uygulmas\u0131\\Modul_Cek\\frmMusteriCeki.cs",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\Modul_Cek\\frmMusteriCeki.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\Modul_Cek\\frmMusteriCeki.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T08:00:15.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FrmBankaListesi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\Modul_Banka\\FrmBankaListesi.cs",
+              "RelativeDocumentMoniker": "otomasyon proje uygulmas\u0131\\Modul_Banka\\FrmBankaListesi.cs",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\Modul_Banka\\FrmBankaListesi.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\Modul_Banka\\FrmBankaListesi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T08:07:47.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "frmKendiCekimiz.cs",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\Modul_Cek\\frmKendiCekimiz.cs",
+              "RelativeDocumentMoniker": "otomasyon proje uygulmas\u0131\\Modul_Cek\\frmKendiCekimiz.cs",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\Modul_Cek\\frmKendiCekimiz.cs",
+              "RelativeToolTip": "otomasyon proje uygulmas\u0131\\Modul_Cek\\frmKendiCekimiz.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAhwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T08:10:38.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FrmBankaHareketleri.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\Modul_Banka\\FrmBankaHareketleri.cs",
+              "RelativeDocumentMoniker": "otomasyon proje uygulmas\u0131\\Modul_Banka\\FrmBankaHareketleri.cs",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\Modul_Banka\\FrmBankaHareketleri.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\Modul_Banka\\FrmBankaHareketleri.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T11:36:06.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "frmBankayaCekCikisi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\Modul_Cek\\frmBankayaCekCikisi.cs",
+              "RelativeDocumentMoniker": "otomasyon proje uygulmas\u0131\\Modul_Cek\\frmBankayaCekCikisi.cs",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\Modul_Cek\\frmBankayaCekCikisi.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\Modul_Cek\\frmBankayaCekCikisi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T08:03:31.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "fmrCariyeCekCikisi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\Modul_Cek\\fmrCariyeCekCikisi.cs",
+              "RelativeDocumentMoniker": "otomasyon proje uygulmas\u0131\\Modul_Cek\\fmrCariyeCekCikisi.cs",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\Modul_Cek\\fmrCariyeCekCikisi.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\Modul_Cek\\fmrCariyeCekCikisi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T08:03:12.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmKendiCekimiz.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\Modul_Cek\\frmKendiCekimiz.cs",
+              "RelativeDocumentMoniker": "otomasyon proje uygulmas\u0131\\Modul_Cek\\frmKendiCekimiz.cs",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\Modul_Cek\\frmKendiCekimiz.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\Modul_Cek\\frmKendiCekimiz.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T08:02:46.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FrmParaTranser.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\Modul_Banka\\FrmParaTranser.cs",
+              "RelativeDocumentMoniker": "otomasyon proje uygulmas\u0131\\Modul_Banka\\FrmParaTranser.cs",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\Modul_Banka\\FrmParaTranser.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\Modul_Banka\\FrmParaTranser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T12:48:40.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FrmBanka\u0130slem.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\Modul_Banka\\FrmBanka\u0130slem.cs",
+              "RelativeDocumentMoniker": "otomasyon proje uygulmas\u0131\\Modul_Banka\\FrmBanka\u0130slem.cs",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\Modul_Banka\\FrmBanka\u0130slem.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\PROJELER SAH\u0130NER G\u00DCLER\\231116011-abdussemed-g\u00FCn-proje-uygulamas\u0131\\otomasyon proje uygulmas\u0131\\Modul_Banka\\FrmBanka\u0130slem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T08:56:35.788Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 80,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 71,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

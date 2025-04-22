@@ -1,0 +1,186 @@
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\otomasyon proje uygulması\otomasyon proje uygulması\obj\Debug\otomasyon proje uygulması.csproj.AssemblyReference.cache
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\otomasyon proje uygulması\otomasyon proje uygulması\obj\Debug\otomasyon_proje_uygulması.Properties.Resources.resources
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\otomasyon proje uygulması\otomasyon proje uygulması\obj\Debug\otomasyon_proje_uygulması.anaform.resources
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\otomasyon proje uygulması\otomasyon proje uygulması\obj\Debug\otomasyon proje uygulması.csproj.GenerateResource.cache
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\otomasyon proje uygulması\otomasyon proje uygulması\obj\Debug\otomasyon proje uygulması.exe.licenses
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\otomasyon proje uygulması\otomasyon proje uygulması\obj\Debug\otomasyon proje uygulması.csproj.CoreCompileInputs.cache
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\otomasyon proje uygulması\otomasyon proje uygulması\bin\Debug\otomasyon proje uygulması.exe.config
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\otomasyon proje uygulması\otomasyon proje uygulması\bin\Debug\otomasyon proje uygulması.exe
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\otomasyon proje uygulması\otomasyon proje uygulması\bin\Debug\otomasyon proje uygulması.pdb
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\otomasyon proje uygulması\otomasyon proje uygulması\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\otomasyon proje uygulması\otomasyon proje uygulması\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\otomasyon proje uygulması\otomasyon proje uygulması\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\otomasyon proje uygulması\otomasyon proje uygulması\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\otomasyon proje uygulması\otomasyon proje uygulması\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\otomasyon proje uygulması\otomasyon proje uygulması\bin\Debug\DevExpress.Utils.v22.2.dll
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\otomasyon proje uygulması\otomasyon proje uygulması\bin\Debug\DevExpress.XtraBars.v22.2.dll
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\otomasyon proje uygulması\otomasyon proje uygulması\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\otomasyon proje uygulması\otomasyon proje uygulması\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\otomasyon proje uygulması\otomasyon proje uygulması\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\otomasyon proje uygulması\otomasyon proje uygulması\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\otomasyon proje uygulması\otomasyon proje uygulması\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\otomasyon proje uygulması\otomasyon proje uygulması\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\otomasyon proje uygulması\otomasyon proje uygulması\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\otomasyon proje uygulması\otomasyon proje uygulması\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\otomasyon proje uygulması\otomasyon proje uygulması\bin\Debug\DevExpress.Office.v22.2.Core.dll
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\otomasyon proje uygulması\otomasyon proje uygulması\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\otomasyon proje uygulması\otomasyon proje uygulması\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\otomasyon proje uygulması\otomasyon proje uygulması\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\otomasyon proje uygulması\otomasyon proje uygulması\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\otomasyon proje uygulması\otomasyon proje uygulması\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\otomasyon proje uygulması\otomasyon proje uygulması\bin\Debug\DevExpress.XtraBars.v22.2.xml
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\otomasyon proje uygulması\otomasyon proje uygulması\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\otomasyon proje uygulması\otomasyon proje uygulması\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\otomasyon proje uygulması\otomasyon proje uygulması\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\otomasyon proje uygulması\otomasyon proje uygulması\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\otomasyon proje uygulması\otomasyon proje uygulması\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\otomasyon proje uygulması\otomasyon proje uygulması\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\otomasyon proje uygulması\otomasyon proje uygulması\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\otomasyon proje uygulması\otomasyon proje uygulması\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\otomasyon proje uygulması\otomasyon proje uygulması\bin\Debug\DevExpress.Office.v22.2.Core.xml
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\otomasyon proje uygulması\otomasyon proje uygulması\obj\Debug\otomasyon_proje_uygulması.modul_stok.FRMSTOKLİSTESİ.resources
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\otomasyon proje uygulması\otomasyon proje uygulması\obj\Debug\otomasyon proje uygulması.csproj.CopyComplete
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\otomasyon proje uygulması\otomasyon proje uygulması\obj\Debug\otomasyon proje uygulması.exe
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\otomasyon proje uygulması\otomasyon proje uygulması\obj\Debug\otomasyon proje uygulması.pdb
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\otomasyon proje uygulması\otomasyon proje uygulması\obj\Debug\otomasyon_proje_uygulması.modul_stok.FRMSTOKKARTI.resources
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\otomasyon proje uygulması\otomasyon proje uygulması\obj\Debug\otomasyon_proje_uygulması.modul_stok.FRMSTOKGRUPLARII.resources
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\bin\Debug\otomasyon proje uygulması.exe.config
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\bin\Debug\otomasyon proje uygulması.exe
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\bin\Debug\otomasyon proje uygulması.pdb
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\bin\Debug\DevExpress.Utils.v22.2.dll
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\bin\Debug\DevExpress.XtraBars.v22.2.dll
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\bin\Debug\DevExpress.Office.v22.2.Core.dll
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\bin\Debug\DevExpress.XtraBars.v22.2.xml
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\bin\Debug\DevExpress.Office.v22.2.Core.xml
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\obj\Debug\otomasyon proje uygulması.csproj.AssemblyReference.cache
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\obj\Debug\otomasyon_proje_uygulması.modul_stok.FRMSTOKGRUPLARII.resources
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\obj\Debug\otomasyon_proje_uygulması.modul_stok.FRMSTOKKARTI.resources
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\obj\Debug\otomasyon_proje_uygulması.modul_stok.FRMSTOKLİSTESİ.resources
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\obj\Debug\otomasyon_proje_uygulması.Properties.Resources.resources
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\obj\Debug\otomasyon_proje_uygulması.ANAFORM.resources
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\obj\Debug\otomasyon proje uygulması.csproj.GenerateResource.cache
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\obj\Debug\otomasyon proje uygulması.exe.licenses
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\obj\Debug\otomasyon proje uygulması.csproj.CoreCompileInputs.cache
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\obj\Debug\otomasyon proje uygulması.exe
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\obj\Debug\otomasyon proje uygulması.pdb
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\obj\Debug\otomasyon_proje_uygulması.Modul_Cari.FrmAcilisKarti.resources
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\obj\Debug\otomasyon_proje_uygulması.Modul_Cari.FrmCariGruplari.resources
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\obj\Debug\otomasyon_proje_uygulması.Modul_Cari.FrmCariHareketleri.resources
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\obj\Debug\otomasyon_proje_uygulması.Modul_Cari.FrmCariListesi.resources
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\obj\Debug\otomasyon_proje_uygulması.modul_stok.FMRSTOKHAREKETLERİ.resources
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\obj\Debug\otomasyo.EED9E4BD.Up2Date
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\obj\Debug\otomasyon_proje_uygulması.Modul_Banka.FrmBankaAcilisKarti.resources
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\obj\Debug\otomasyon_proje_uygulması.Modul_Banka.FrmBankaHareketleri.resources
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\obj\Debug\otomasyon_proje_uygulması.Modul_Banka.FrmBankaListesi.resources
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\obj\Debug\otomasyon_proje_uygulması.Modul_Banka.FrmBankaİslem.resources
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\obj\Debug\otomasyon_proje_uygulması.Modul_Banka.FrmParaTranser.resources
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\obj\Debug\otomasyon_proje_uygulması.Modul_Fatura.FrmFaturaListesi.resources
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\obj\Debug\otomasyon_proje_uygulması.Modul_Fatura.FrmSatisFaturasi.resources
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\obj\Debug\otomasyon_proje_uygulması.Modul_Kasa.FrmKasaAcilisKarti.resources
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\obj\Debug\otomasyon_proje_uygulması.Modul_Kasa.FrmKasaDevirİslem.resources
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\obj\Debug\otomasyon_proje_uygulması.Modul_Kasa.FrmKasaListesi.resources
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\obj\Debug\otomasyon_proje_uygulması.Modul_Kasa.FrmKasaTahsilatÖdeme.resources
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\obj\Debug\otomasyon_proje_uygulması.Modul_Kasa.FrmKasaHareketleri.resources
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\bin\Debug\DevExpress.XtraNavBar.v22.2.dll
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\bin\Debug\DevExpress.XtraNavBar.v22.2.xml
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\obj\Debug\otomasyon_proje_uygulması.Modul_Cek.fmrCariyeCekCikisi.resources
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\obj\Debug\otomasyon_proje_uygulması.Modul_Cek.frmBankayaCekCikisi.resources
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\obj\Debug\otomasyon_proje_uygulması.Modul_Cek.frmKendiCekimiz.resources
+C:\Users\abdus\OneDrive\Masaüstü\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\obj\Debug\otomasyon_proje_uygulması.Modul_Cek.frmMusteriCeki.resources
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\bin\Debug\otomasyon proje uygulması.exe.config
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\bin\Debug\otomasyon proje uygulması.exe
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\bin\Debug\otomasyon proje uygulması.pdb
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\bin\Debug\DevExpress.Utils.v22.2.dll
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\bin\Debug\DevExpress.XtraBars.v22.2.dll
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\bin\Debug\DevExpress.XtraNavBar.v22.2.dll
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\bin\Debug\DevExpress.Office.v22.2.Core.dll
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\bin\Debug\DevExpress.XtraBars.v22.2.xml
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\bin\Debug\DevExpress.XtraNavBar.v22.2.xml
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\bin\Debug\DevExpress.Office.v22.2.Core.xml
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\obj\Debug\otomasyon proje uygulması.csproj.AssemblyReference.cache
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\obj\Debug\otomasyon_proje_uygulması.Modul_Banka.FrmBankaAcilisKarti.resources
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\obj\Debug\otomasyon_proje_uygulması.Modul_Banka.FrmBankaHareketleri.resources
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\obj\Debug\otomasyon_proje_uygulması.Modul_Banka.FrmBankaListesi.resources
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\obj\Debug\otomasyon_proje_uygulması.Modul_Banka.FrmBankaİslem.resources
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\obj\Debug\otomasyon_proje_uygulması.Modul_Banka.FrmParaTranser.resources
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\obj\Debug\otomasyon_proje_uygulması.Modul_Cari.FrmAcilisKarti.resources
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\obj\Debug\otomasyon_proje_uygulması.Modul_Cari.FrmCariGruplari.resources
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\obj\Debug\otomasyon_proje_uygulması.Modul_Cari.FrmCariHareketleri.resources
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\obj\Debug\otomasyon_proje_uygulması.Modul_Cari.FrmCariListesi.resources
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\obj\Debug\otomasyon_proje_uygulması.Modul_Cek.fmrCariyeCekCikisi.resources
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\obj\Debug\otomasyon_proje_uygulması.Modul_Cek.frmBankayaCekCikisi.resources
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\obj\Debug\otomasyon_proje_uygulması.Modul_Cek.frmKendiCekimiz.resources
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\obj\Debug\otomasyon_proje_uygulması.Modul_Cek.frmMusteriCeki.resources
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\obj\Debug\otomasyon_proje_uygulması.Modul_Fatura.FrmFaturaListesi.resources
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\obj\Debug\otomasyon_proje_uygulması.Modul_Fatura.FrmSatisFaturasi.resources
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\obj\Debug\otomasyon_proje_uygulması.Modul_Kasa.FrmKasaAcilisKarti.resources
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\obj\Debug\otomasyon_proje_uygulması.Modul_Kasa.FrmKasaDevirİslem.resources
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\obj\Debug\otomasyon_proje_uygulması.Modul_Kasa.FrmKasaHareketleri.resources
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\obj\Debug\otomasyon_proje_uygulması.Modul_Kasa.FrmKasaListesi.resources
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\obj\Debug\otomasyon_proje_uygulması.Modul_Kasa.FrmKasaTahsilatÖdeme.resources
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\obj\Debug\otomasyon_proje_uygulması.modul_stok.FMRSTOKHAREKETLERİ.resources
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\obj\Debug\otomasyon_proje_uygulması.modul_stok.FRMSTOKGRUPLARII.resources
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\obj\Debug\otomasyon_proje_uygulması.modul_stok.FRMSTOKKARTI.resources
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\obj\Debug\otomasyon_proje_uygulması.modul_stok.FRMSTOKLİSTESİ.resources
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\obj\Debug\otomasyon_proje_uygulması.Properties.Resources.resources
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\obj\Debug\otomasyon_proje_uygulması.ANAFORM.resources
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\obj\Debug\otomasyon proje uygulması.csproj.GenerateResource.cache
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\obj\Debug\otomasyon proje uygulması.exe.licenses
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\obj\Debug\otomasyon proje uygulması.csproj.CoreCompileInputs.cache
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\obj\Debug\otomasyo.EED9E4BD.Up2Date
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\obj\Debug\otomasyon proje uygulması.exe
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\obj\Debug\otomasyon proje uygulması.pdb
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\obj\Debug\otomasyon_proje_uygulması.modul_kullanici.frmKullaniciPanel.resources
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör\PROJELER SAHİNER GÜLER\231116011-abdussemed-gün-proje-uygulaması\otomasyon proje uygulması\obj\Debug\otomasyon_proje_uygulması.modul_kullanici.frmKullaniciYönetimi.resources
